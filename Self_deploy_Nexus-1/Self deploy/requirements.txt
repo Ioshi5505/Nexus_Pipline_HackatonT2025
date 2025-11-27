@@ -1,0 +1,10 @@
+# Python 3.9+
+
+# Операции Git
+GitPython==3.1.40
+
+# HTTP-запросы для резервного API
+requests==2.31.0
+
+# Генерация YAML
+PyYAML==6.0.1
