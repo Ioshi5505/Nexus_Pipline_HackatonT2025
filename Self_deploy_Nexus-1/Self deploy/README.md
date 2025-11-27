@@ -299,7 +299,6 @@ self-deploy/
 ├── self_deploy.py              # Главный CLI скрипт
 ├── requirements.txt            # Python зависимости
 ├── docker-compose.yml          # Локальная инфраструктура
-├── README.md                   # Документация
 ├── DEPLOYMENT_GUIDE.md         # Руководство по развертыванию
 ├── analyzers/                  # Модули анализа
 │   ├── __init__.py
